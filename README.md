@@ -1,2 +1,2 @@
 # git-demo
-Using common git instructions. Not for public use (or interest, lol).
+Using common git instructions for test and demonstration purpose.
