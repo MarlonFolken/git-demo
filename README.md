@@ -15,5 +15,5 @@ Mauris *egestas* tellus *lectus*
 
 `Sample code`
 ``` [SCSS]
-width: 600px / 960px * 100%;
+width: 600px / 960px * 89%;
 ```
